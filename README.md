@@ -30,3 +30,6 @@ São ramificações no repositório onde poderá trabalhar mais de uma pessoa, s
 ### - Issue
 É uma tarefa, bug ou solicitação de melhoria registrada no repositório, ajuda a rastrear e gerenciar o trabalho a ser feito.
 
+### - Para mais informações:
+1. [Gerador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [Guia Markdown](https://github.com/mende1/guia-definitivo-de-markdown)
